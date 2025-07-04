@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a cybersecurity-themed personal portfolio website for Raman Dubey. The project showcases a hacker/terminal aesthetic with interactive elements including a Matrix rain background effect, loading animations, and typewriter effects. The site is built as a single-page application (SPA) using vanilla HTML, CSS, and JavaScript with no backend dependencies.
+This is a cybersecurity-themed personal portfolio website for Raman. The project showcases a hacker/terminal aesthetic with interactive elements including a Matrix rain background effect, loading animations, and typewriter effects. The site is built as a single-page application (SPA) using vanilla HTML, CSS, and JavaScript with no backend dependencies.
 
 ## System Architecture
 
