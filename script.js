@@ -322,7 +322,7 @@ class HackerPortfolio {
                 this.showTerminalResponse('Encrypting message payload...');
                 
                 setTimeout(() => {
-                    this.showTerminalResponse('Message transmitted successfully! 🚀', 'success');
+                    this.showTerminalResponse('Message transmitted successfully! 🚀 BTW,it does not works!! so use mail', 'success');
                     form.reset();
                 }, 1500);
             }, 1000);
