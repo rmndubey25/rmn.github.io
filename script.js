@@ -510,17 +510,17 @@ function addConsoleMessage() {
     console.log(`
     ╔══════════════════════════════════════════════════════════════╗
     ║                                                              ║
-    ║  🚀 Welcome to Raman Dubey's Digital Lair!                  ║
+    ║  🚀 Welcome to Raman's Digital Lair!                         ║
     ║                                                              ║
-    ║  👨‍💻 Cybersecurity Student & Pentester-in-Training           ║
-    ║  📍 Greater Noida, IN                                        ║
+    ║  👨‍💻 Cybersecurity Student & Pentester-in-Training            ║
+    ║  📍 Base of Operations: Noida, IN                            ║
     ║  🎯 Breaking stuff daily (ethically!)                        ║
     ║                                                              ║
     ║  🔧 Fun commands to try:                                     ║
-    ║     - Ctrl+K: Toggle Stealth Mode                           ║
-    ║     - Konami Code: Matrix Mode                              ║
+    ║     - Ctrl+K: Toggle Stealth Mode                            ║
+    ║     - Konami Code: Matrix Mode                               ║
     ║                                                              ║
-    ║  📫 Contact: raman@example.com                               ║
+    ║  📫 Contact: raman@notavailable.com                          ║
     ║                                                              ║
     ╚══════════════════════════════════════════════════════════════╝
     `);
