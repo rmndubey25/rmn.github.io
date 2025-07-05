@@ -2,7 +2,7 @@
 const heroData = {
     name: "Raman",
     title: "Cybersecurity Student & Pentester-in-Training",
-    location: "Noida, IN",
+    location: "Base of Operations: Noida, IN",
     tagline: "Breaking stuff daily (ethically!)",
     description: "Welcome to my digital lair! I'm a cybersecurity enthusiast who loves finding vulnerabilities, learning new attack vectors, and sharing knowledge with the community.",
     email: "raman@example.com",
