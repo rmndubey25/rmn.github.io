@@ -10,7 +10,6 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
-  <audio id="startupAudio" src="voice.mp3" preload="auto" style="display: none;"></audio>
     <!-- Loading Screen -->
     <div id="loading-screen" class="loading-screen">
         <div class="ascii-art">
@@ -507,23 +506,6 @@
             </div>
         </div>
     </footer>
-   <script>
-    window.addEventListener("DOMContentLoaded", () => {
-      const audio = document.getElementById("startupAudio");
-
-      const playAudio = () => {
-        if (!audio) return console.error("Audio element not found");
-        audio.volume = 0.8;
-        audio.play().catch((err) => {
-          console.log("Autoplay blocked, waiting for click...", err);
-        });
-      };
-
-      playAudio();
-
-      document.body.addEventListener("click", () => playAudio(), { once: true });
-    });
-  </script>
     <script src="matrix.js"></script>
     <script src="hero-data.js"></script>
     <script src="about-data.js"></script>
