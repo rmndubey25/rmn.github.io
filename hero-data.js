@@ -1,8 +1,8 @@
 // Hero Section Data
 const heroData = {
-    name: "Raman Dubey",
+    name: "Raman",
     title: "Cybersecurity Student & Pentester-in-Training",
-    location: "Greater Noida, IN",
+    location: "Noida, IN",
     tagline: "Breaking stuff daily (ethically!)",
     description: "Welcome to my digital lair! I'm a cybersecurity enthusiast who loves finding vulnerabilities, learning new attack vectors, and sharing knowledge with the community.",
     email: "raman@example.com",
@@ -23,9 +23,9 @@ const heroData = {
     // Social media links
     socialLinks: {
         github: "https://github.com/rmndubey25",
-        linkedin: "https://linkedin.com/in/raman-dubey",
-        twitter: "https://twitter.com/rmndubey25",
-        email: "mailto:raman@example.com"
+        linkedin: "https://www.donkey.com/",
+        twitter: "https://x.com/rmn_dubey",
+        email: "mailto:raman@notavailable.com"
     },
     
     // Stats that appear in the hero section
